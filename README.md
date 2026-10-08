@@ -19,8 +19,9 @@ I'm drawn to problems where correctness and craft both matter: stateful interact
 - Shipped a cross-system identity-verification integration eluation through production launch, spanning a mobile app anda JVM backend.
 - Built clinical time-in-range visualizations and drove the act that shaped the underlying data model.
 - Led a TypeScript migration and Next.js re-architecture, and established the review and mentorship practices that cut production issues by 30%.
-- Secured district approvals (NY & LAUSD) by leading enginee
-                                                                                                                                               ## 📦 About this profile
+- Secured district approvals (NY & LAUSD) by leading engineering compliance efforts.
+
+## 📦 About this profile
 Most of my work over the last few years lives in private repos at Nuna and Mastery Coding, so there isn't much public code here. Happy to walk through architecture, tradeoffs, and the things that broke i
 
 ## 🌐 Find Me

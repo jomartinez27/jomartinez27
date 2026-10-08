@@ -22,7 +22,7 @@ I'm drawn to problems where correctness and craft both matter: stateful interact
 - Secured district approvals (NY & LAUSD) by leading engineering compliance efforts.
 
 ## 📦 About this profile
-Most of my work over the last few years lives in private repos at Nuna and Mastery Coding, so there isn't much public code here. Happy to walk through architecture, tradeoffs, and the things that broke i
+Most of my work over the last few years lives in private repos at Nuna and Mastery Coding, so there isn't much public code here. Happy to walk through architecture, tradeoffs, and the things and the things that broke in conversation.
 
 ## 🌐 Find Me
 - [LinkedIn](https://www.linkedin.com/in/jose-martinez-517a29149)
